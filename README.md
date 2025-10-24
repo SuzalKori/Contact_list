@@ -35,19 +35,20 @@ The application is deployed live at https://contact-list-bcoh.vercel.app/
 
 1. Clone the Repository:
 
-git clone YOUR_GITHUB_REPO_LINK
-cd contact_list
+- git clone YOUR_GITHUB_REPO_LINK
+- cd contact_list
 
 
 2. Install Dependencies:
 
-npm install
+- npm install
 
 
 3. Start the Development Server (using Vite):
 
-npm run dev
+- npm run dev
 
+The application should start working successfully.
 
 ## Architecture and Design Choices
 
