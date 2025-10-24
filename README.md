@@ -36,7 +36,7 @@ The application is deployed live at https://contact-list-bcoh.vercel.app/
 1. Clone the Repository:
 
 git clone YOUR_GITHUB_REPO_LINK
-cd tria-contact-manager
+cd contact_list
 
 
 2. Install Dependencies:
